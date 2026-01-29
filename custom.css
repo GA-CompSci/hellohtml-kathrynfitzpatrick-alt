@@ -1,6 +1,18 @@
 header {
     background-image: url("https://wallpapercave.com/wp/wp12247845.jpg");
-    backgorund-position: center center;
-    background-size cover;
+    background-position: center center;
+    background-size: cover;
     
+}
+
+#hero-text {
+color: white !important;
+text-shadow: 2px 2px 5px white;
+}
+
+header p {
+    color: white;
+    font-size: 24px;
+    font-weight: 900 !important;
+    text-shadow: 1px 1px 2px white;
 }
